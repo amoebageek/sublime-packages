@@ -1,0 +1,13 @@
+<snippet>
+    <content><![CDATA[
+	var myApp=angular.module('myModule',[])
+
+		.controller('myCtrl',['\$scope',function(\$scope){
+	
+			//...your code base
+
+		}]);]]></content>
+    <tabTrigger>amc</tabTrigger>
+    <scope>source.js</scope>
+    <description>angular with module and controller </description>
+</snippet>

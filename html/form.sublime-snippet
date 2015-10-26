@@ -1,0 +1,15 @@
+<snippet>
+	<content><![CDATA[<form method="" action="">
+			<input type="text" class="" name="for-text-1" />
+			<input type="text" class="" name="for-text-1" />
+			
+			<button type="reset">Reset</button>
+			<button type="submit">Submit</button>
+	</form>
+
+		]]></content>
+
+	<tabTrigger>form</tabTrigger>
+	
+	<scope>text.html</scope>
+</snippet>
